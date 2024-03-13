@@ -95,8 +95,8 @@ DATABASES = {
         'ENGINE': 'mssql',
         'NAME': 'Nahs',
         'USER': 'NashDjango_RW',
-        'PASSWORD': 'T+rn4y-3Du549pJ0iDJ',
-        'HOST': 'mkztsd1005.infineon.com',
+        'PASSWORD': 'T+rn4y',
+        'HOST': 'mkztsd1005',
         'PORT': '1122',
         'OPTIONS': {
             'driver': 'ODBC Driver 17 for SQL Server',
